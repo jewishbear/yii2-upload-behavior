@@ -24,12 +24,12 @@
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": "*",
-    "masterexploder/phpthumb": "dev-Andrej--php7.2-fix"
+    "masterexploder/phpthumb": "2.1.1"
   },
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/Andrej-/PHPThumb.git"
+      "url": "https://github.com/jewishbear/PHPThumb.git"
     }
   ],
   "autoload": {
