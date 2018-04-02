@@ -24,7 +24,7 @@
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": "*",
-    "masterexploder/phpthumb": "Andrej--php7.2-fix"
+    "masterexploder/phpthumb": "dev-Andrej--php7.2-fix"
   },
   "repositories": [
     {
