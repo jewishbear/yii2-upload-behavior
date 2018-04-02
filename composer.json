@@ -24,12 +24,12 @@
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": "*",
-    "masterexploder/phpthumb": "*"
+    "Andrej-/PHPThumb": "*"
   },
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/yii-dream-team/PHPThumb"
+      "url": "https://github.com/Andrej-/PHPThumb"
     }
   ],
   "autoload": {
